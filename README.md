@@ -1,6 +1,6 @@
 # Tiisetso Motloutsi
 
-**IT Graduate | Web Developer | Network Administrator**
+**IT Graduate | Web Developer | Software Developer
 
 [Email](mailto:setswo173@gmail.com) | 📞 0820439431 | 🏠 14 Lower Ross, New Doornfontein, 2094
 
@@ -76,7 +76,7 @@ Dynamic Information Technology graduate passionate about leveraging both busines
 
 ## 🌐 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-here) *(Add your profile link!)*
+- [LinkedIn](https://www.linkedin.com/in/tiisetso-motloutsi-84ab49296/) 
 - [GitHub](https://github.com/TiisetsoMotloutsi)
 
 ---
