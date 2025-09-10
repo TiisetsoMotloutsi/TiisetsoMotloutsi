@@ -48,7 +48,8 @@ Dynamic Information Technology graduate passionate about leveraging both busines
 
 - **Oracle Certified Associate, Java SE 8 Programmer**
 - **IBM Artificial Intelligence**
-- **IBM Professional Skills Information Technology Specialist**
+- **IBM Professional Skills
+- Information Technology Specialist**
 
 ---
 
