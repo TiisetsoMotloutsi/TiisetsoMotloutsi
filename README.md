@@ -78,6 +78,7 @@ Dynamic Information Technology graduate passionate about leveraging both busines
 
 - [LinkedIn](https://www.linkedin.com/in/tiisetso-motloutsi-84ab49296/) 
 - [GitHub](https://github.com/TiisetsoMotloutsi)
+- [Portfolio](https://v0-portfolio-revamp-smoky.vercel.app/)
 
 ---
 
