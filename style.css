@@ -315,14 +315,14 @@ footer blockquote {
 }
 .floating-concepts {
   position: fixed;
-  top: 20%;
-  left: 50%;
+  top: 0%;
+  left: 0%;
   width: 100vw;
-  height: 60vh;
-  pointer-events: none; /* So clicks pass through */
+  height: 100vh;
+  pointer-events: none; 
   overflow: visible;
   transform: translateX(-50%);
-  z-index: 10; /* above other content */
+  z-index: -1; 
 }
 
 .bubble {
