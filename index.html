@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
-    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tiisetso Motloutsi | Portfolio</title>
+    <link rel="stylesheet" href="style.css" />
 </head>
 <body>
     <header>
@@ -18,14 +18,16 @@
         <ul class="nav-list">
             <li><a href="#about">About</a></li>
             <li><a href="#projects">Projects</a></li>
-            <li><a href="#contact">Contact</a></li>
         </ul>
     </nav>
 
     <main class="container">
         <section id="about">
             <h2>About Me</h2>
-            <p>Hello! I'm Tiisetso Motloutsi, a passionate software developer skilled in JavaScript, CSS, and web technologies. I enjoy building elegant solutions and learning new things.</p>
+            <p>
+                Hello! I'm Tiisetso Motloutsi, a passionate software developer skilled in JavaScript, CSS, and web technologies. 
+                I enjoy building elegant solutions and continuously learning new technologies.
+            </p>
         </section>
 
         <section id="projects">
@@ -37,27 +39,9 @@
                 </div>
                 <div class="project-card">
                     <h3>EasyCover</h3>
-                    <p>An application for funeral cover.</p>
+                    <p>An application for managing funeral cover policies and user accounts.</p>
                 </div>
-              
             </div>
-        </section>
-
-        <section id="contact">
-            <h2>Contact</h2>
-            <form id="contact-form">
-                <label for="name">Name</label>
-                <input type="text" id="name" name="name" required>
-                
-                <label for="email">Email</label>
-                <input type="email" id="email" name="email" required>
-                
-                <label for="message">Message</label>
-                <textarea id="message" name="message" rows="4" required></textarea>
-                
-                <button type="submit">Send</button>
-                <p id="form-output" class="form-output"></p>
-            </form>
         </section>
     </main>
 
@@ -66,16 +50,7 @@
             <p>&copy; 2025 Tiisetso Motloutsi. All rights reserved.</p>
         </div>
     </footer>
+
     <script src="script.js"></script>
 </body>
 </html>
-<!-- Snake Game-->
-<section id="snake-game">
-    <h2>Play Snake</h2>
-    <div class="snake-container">
-        <canvas id="snake-canvas" width="320" height="320" tabindex="0"></canvas>
-        <div id="snake-score">Score: 0</div>
-        <button id="snake-restart">Restart</button>
-    </div>
-    <p class="snake-help">Use arrow keys to play. Try to get the highest score!</p>
-</section>
